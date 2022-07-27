@@ -1,0 +1,10 @@
+{
+	"welcome":
+	{
+		"mp3":"dyseban/in/"
+	},
+	"goodbye":
+	{
+		"mp3":"dyseban/out/"
+	}
+}
